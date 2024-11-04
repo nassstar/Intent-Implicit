@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Intent Bintang</string>
+    <!--intent eksplisit-->
+    <string name="move_activity">Pindah Activitas</string>
+    <string name="whis_is_move_activity">Ini Hasil Pindah Activitas</string>
+    <string name="back_activity">Activitas Kembali</string>
+    <!--intent eksplisit-->
+    <string name="dial_number">Aktivitas Menelpon</string>
+    <!--intent send sms-->
+    <string name="open_browser">Buka Browser</string>
+</resources>
